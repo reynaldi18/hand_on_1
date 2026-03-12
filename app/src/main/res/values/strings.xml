@@ -1,3 +1,6 @@
 <resources>
   <string name="app_name">Hand On 1</string>
+  <string name="lb_delete">Delete</string>
+  <string name="lb_add">Add</string>
+  <string name="lb_input_book_name">Input book name</string>
 </resources>
